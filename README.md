@@ -1,1 +1,2 @@
-# Teach-Yourself-C-Chapter6
+# Name: Tashfia Jannath
+# Roll: BSSE 1223
